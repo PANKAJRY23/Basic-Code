@@ -1,0 +1,12 @@
+package services;
+
+import java.util.ArrayList;
+
+public class bookservices {
+
+	private static ArrayList<Books> list = new ArrayList<Books>();
+	
+	static {
+		list.add()
+	}
+}

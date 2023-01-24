@@ -1,0 +1,20 @@
+package com.java;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class DuplicateString {
+
+	public static void main(String[] args) {
+		String name = "pankaj";
+		
+		char [] a = name.toCharArray();
+		int count = 1;
+		System.out.println(a.length);
+		for(int i=0; i<=a.length;i++) {
+			System.out.println(a[i]);
+		}
+			
+	}
+
+}
