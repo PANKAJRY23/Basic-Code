@@ -1,0 +1,27 @@
+package com.example.demo;
+
+public class Test {
+
+//	public void mone(int a, int b) {
+//		System.out.println("int");
+//	}
+	
+	public void mone(short a, short b) {
+		System.out.println("short");
+	}
+	
+	public void mone(byte a, byte b) {
+		System.out.println("byte");
+	}
+	
+//	public void mone(long a, long b) {
+//		System.out.println("long");
+//	}
+	public static void main(String[] args) {
+		Test t = new Test();
+		t.mone(1, 2);
+		int i = 10
+		System.out.println(getClass(1.2));
+	}
+
+}

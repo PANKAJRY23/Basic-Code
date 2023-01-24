@@ -1,0 +1,5 @@
+package com.restapi.java.entities;
+
+public class Books {
+
+}

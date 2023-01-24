@@ -1,0 +1,14 @@
+package com.example.demo;
+
+import java.sql.DriverManager;
+
+public class DeleteData {
+
+	public static void main(String[] args) throws ClassNotFoundException {
+		Class.forName("com.mysql.cj.jdbc.Driver");
+		String s = "jdbc:mysql://localhost:3306/newdb","root","Pankaj@12345";
+		Connection conn = DriverManager.getConnection("jdbc:mysql://localhost")
+
+	}
+
+}
