@@ -1,4 +1,4 @@
-package com.programs;
+package com.java;
 
 import java.util.*;
 
@@ -13,7 +13,7 @@ public class EvenNumber {
 		}else {
 			System.out.println(number+" not a even number");
 		}
-		
+
 	}
 
 }
